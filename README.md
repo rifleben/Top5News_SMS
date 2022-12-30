@@ -12,7 +12,7 @@ To use this code, you will need to sign up for an API key from News API. You wil
 
 ## To configure the code, you will need to update the following values:
 
-API_KEY: Your News API API key
-TWILIO_ACCOUNT_SID: Your Twilio account SID
-TWILIO_AUTH_TOKEN: Your Twilio auth token
-TWILIO_PHONE_NUMBER: Your Twilio phone number
+- API_KEY: Your News API API key
+- TWILIO_ACCOUNT_SID: Your Twilio account SID
+- TWILIO_AUTH_TOKEN: Your Twilio auth token
+- TWILIO_PHONE_NUMBER: Your Twilio phone number
